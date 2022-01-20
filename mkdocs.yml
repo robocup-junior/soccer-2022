@@ -1,0 +1,8 @@
+site_name: RCJ Soccer 2021
+theme:
+  name: material
+  palette:
+    primary: green
+
+nav:
+  - Home: index.md
