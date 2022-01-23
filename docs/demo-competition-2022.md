@@ -53,9 +53,9 @@ hesitate to suggest a change -- Pull Requests are very much welcome!
 
 _Unless otherwise specified, all dates use the [Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth) timezone_
 
-**Registration**: 13-02-2022
-**Code submission**: 20-02-2022
-**Competition**: 21-02-2022 to 28-02-2022  (tentative)
+- **Registration**: 13-02-2022
+- **Code submission**: 20-02-2022
+- **Competition**: 21-02-2022 to 28-02-2022  (tentative)
 
 _Note that we plan to use your code to simulate the tournament during the
 competition days -- no action is expected from your side._
