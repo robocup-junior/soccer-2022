@@ -142,15 +142,15 @@ _Download results in [PDF](pdfs/demo-group-phase.pdf)_
 
 ## Group 2
 
-|#  |Team             |Affiliation     |W - D - L |Points|Scored|Diff.|Rank|Qualification|
-|---|-----------------|----------------|----------|------|------|-----|----|-------------|
-|32 |ExeptionErr      |Iran            |7 - 0 - 0 |21    |155   |118  |1   |qualified    |
-|14 |Griffins         |Slovakia        |6 - 0 - 1 |18    |76    |41   |2   |qualified    |
-|38 |Barbarus Herzogin|Iran            |5 - 0 - 2 |15    |68    |14   |3   |             |
-|42 |Helli5+          |Iran            |4 - 0 - 3 |12    |67    |17   |4   |             |
-|27 |SCL              |Hong Kong, China|3 - 0 - 4 |9     |44    |-46  |5   |             |
-|17 |farzanegan 4     |Iran            |2 - 0 - 5 |6     |54    |-14  |6   |             |
-|33 |All_outlook      |Japan           |1 - 0 - 6 |3     |26    |-60  |7   |             |
+|Team             |Affiliation     |W - D - L |Points|Scored|Diff.|Rank|Qualification|
+|-----------------|----------------|----------|------|------|-----|----|-------------|
+|ExeptionErr      |Iran            |7 - 0 - 0 |21    |155   |118  |1   |qualified    |
+|Griffins         |Slovakia        |6 - 0 - 1 |18    |76    |41   |2   |qualified    |
+|Barbarus Herzogin|Iran            |5 - 0 - 2 |15    |68    |14   |3   |             |
+|Helli5+          |Iran            |4 - 0 - 3 |12    |67    |17   |4   |             |
+|SCL              |Hong Kong, China|3 - 0 - 4 |9     |44    |-46  |5   |             |
+|farzanegan 4     |Iran            |2 - 0 - 5 |6     |54    |-14  |6   |             |
+|All_outlook      |Japan           |1 - 0 - 6 |3     |26    |-60  |7   |             |
 
 ### Helli5+ vs. Team SCL , CSW REC
 - **Final result:** (12 : 6)
