@@ -12,4 +12,5 @@ nav:
   - "Soccer Sim Demo Competition 2022 Results":
     - "SoccerSim 2022 - Group Phase": "demo/demo-2022-group-phase.md"
     - "SoccerSim 2022 - Quarter Finals": "demo/demo-2022-quarter-finals.md"
+    - "SoccerSim 2022 - Semifinals": "demo/demo-2022-semifinals.md"
   - Soccer Sim Code Submission: "code-submission.md"
