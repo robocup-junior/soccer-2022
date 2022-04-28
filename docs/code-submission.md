@@ -5,7 +5,7 @@ robots needs to get to the organizers.
 
 Let's talk a bit about how to do this.
 
-## Too long; Didn't read (TD;DR)
+## Too long; Didn't read (TL;DR)
 
 We expect you to submit the code of the `rcj_soccer_team_blue` controller.
 
