@@ -1,4 +1,4 @@
-# SoccerSim 2022 - Quarter Finals
+# SoccerSim Demo 2022 - Quarter Finals
 
 _Download results in [PDF](pdfs/demo-quarter-finals.pdf)_
 

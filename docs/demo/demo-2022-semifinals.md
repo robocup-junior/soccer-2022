@@ -1,4 +1,4 @@
-# SoccerSim 2022 - Semifinals
+# SoccerSim Demo 2022 - Semifinals
 
 _Download results in [PDF](pdfs/demo-semifinals.pdf)_
 

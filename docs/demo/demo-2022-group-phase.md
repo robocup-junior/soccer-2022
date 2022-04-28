@@ -1,4 +1,4 @@
-# SoccerSim 2022 - Group Phase
+# SoccerSim Demo 2022 - Group Phase
 
 _Download results in [PDF](pdfs/demo-group-phase.pdf)_
 
