@@ -1,4 +1,4 @@
-# RoboCupJunior Soccer Sim Demo 2022
+# RoboCupJunior SoccerSim Demo 2022
 
 The RoboCupJunior Soccer Sim Demo competition is exactly what it sounds like: a
 chance to try out the Webots-based Soccer Sim environment, along with the new
