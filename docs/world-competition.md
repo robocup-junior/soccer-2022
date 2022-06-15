@@ -9,6 +9,7 @@ since most of the committee members will be located at the physical RCJ in Bangk
 ## Competition overview
 
 SoccerSim challenge this year includes:
+
 * Simulation of matches
 * Presentation of team description papers
 * Solving Technical Challenges.
