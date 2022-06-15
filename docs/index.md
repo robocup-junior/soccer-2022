@@ -9,3 +9,4 @@ General information:
 ## Competitions
 
 - [RoboCupJunior Soccer Sim Demo 2022](./demo-competition-2022.md)
+- [RoboCupJunior Soccer Sim World Championship 2022](./world-competition.md)
