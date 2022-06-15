@@ -36,7 +36,7 @@ The rules are based on the regular RoboCupJunior Soccer rules, adapted to the
 simulation environment.
 
 You can find them at
-https://github.com/RoboCupJuniorTC/soccer-rules-simulation/blob/master/rules.pdf
+[GitHub](https://github.com/RoboCupJuniorTC/soccer-rules-simulation/blob/master/rules.pdf)
 
 **Note**: The rules haven't changed much from the last year. Perhaps the most
 important changes include the change of the world's coordinate system and
