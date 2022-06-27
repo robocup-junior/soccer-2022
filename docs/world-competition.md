@@ -61,9 +61,11 @@ hesitate to suggest a change -- Pull Requests are very much welcome!
 _Unless otherwise specified, all dates use the [Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth) timezone_
 
 * **June 15th:** Open Tournament Registration Form
-* **June 27th:** Tournament Registration Deadline
-* **June 27th:** Open Tournament Submission Form
-* **July 4th:** Tournament Submission Deadline
+* Tournament Registration Deadline
+    * Extended to **July 1st**
+* Tournament Submission Deadline
+    * Extended to **July 8th**
+    * You will receive account credentials for submitting your code
 * **July 4th:** Technical Challenge 1 & 2 Handout
 * **July 15th:** Challenge 1 & 2 Deadline
 * **July 16th:** Team Description Paper Deadline
