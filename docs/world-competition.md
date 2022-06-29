@@ -69,9 +69,15 @@ _Unless otherwise specified, all dates use the [Anywhere on Earth](https://en.wi
 * **July 4th:** Technical Challenge 1 & 2 Handout
 * **July 15th:** Challenge 1 & 2 Deadline
 * **July 16th:** Team Description Paper Deadline
+    * Upload at [https://forms.gle/s7HRjvU8cx7vgjaS9](https://forms.gle/s7HRjvU8cx7vgjaS9)
 * **July 17th .. 20th:** Publishing Tournament Results
 * **July 26th:** Publishing Solutions of Challenge 1 & 2 as Videos on the Forum
 
 ## Registration
 
 Registration form: [https://forms.gle/HfpeUeWNLvoUqK6C8](https://forms.gle/HfpeUeWNLvoUqK6C8)
+
+## Team description paper upload form
+
+Upload you papers at [https://forms.gle/s7HRjvU8cx7vgjaS9](https://forms.gle/s7HRjvU8cx7vgjaS9)
+
