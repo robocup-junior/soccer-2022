@@ -81,3 +81,9 @@ Registration form: [https://forms.gle/HfpeUeWNLvoUqK6C8](https://forms.gle/HfpeU
 
 Upload you papers at [https://forms.gle/s7HRjvU8cx7vgjaS9](https://forms.gle/s7HRjvU8cx7vgjaS9)
 
+## Technical challenges
+
+* Technical Challenge 1 - [Download PDF](tc/Technical_Challenge_1.pdf)
+* Technical Challenge 2 - [Download PDF](tc/Technical_Challenge_2.pdf)
+
+Upload your videos at [https://forms.gle/zEVqJJt85qMvFxEo6](https://forms.gle/zEVqJJt85qMvFxEo6)
