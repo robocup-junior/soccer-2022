@@ -64,7 +64,7 @@ _Unless otherwise specified, all dates use the [Anywhere on Earth](https://en.wi
 * Tournament Registration Deadline
     * Extended to **July 1st**
 * Tournament Submission Deadline
-    * Extended to **July 11th**
+    * Extended to **July 12th**
     * You will receive account credentials for submitting your code
 * **July 4th:** Technical Challenge 1 & 2 Handout
 * **July 15th:** Challenge 1 & 2 Deadline
