@@ -4,7 +4,8 @@
 
 Download assignment in [PDF](https://robocupjuniortc.github.io/soccer-2022/tc/Technical_Challenge_1.pdf)
 
-**Standigs**
+**Standings**
+
 |Place    |Team                                      |Score|                       
 |---------|------------------------------------------|-----|                       
 |1st place|Reset                                     |6    |
@@ -15,7 +16,8 @@ Download assignment in [PDF](https://robocupjuniortc.github.io/soccer-2022/tc/Te
 
 Download assignment in [PDF](https://robocupjuniortc.github.io/soccer-2022/tc/Technical_Challenge_2.pdf)
 
-**Standigs**
+**Standings**
+
 |Place    |Team             |Score|                       
 |---------|-----------------|-----|                       
 |1st place|Reset<br/>Byte me|13   |
@@ -24,7 +26,6 @@ Download assignment in [PDF](https://robocupjuniortc.github.io/soccer-2022/tc/Te
 
 ## Overall standings
 
-** Overall Standigs**
 |Place    |Team   |Score|                       
 |---------|-------|-----|                       
 |1st place|Reset  |19   |
