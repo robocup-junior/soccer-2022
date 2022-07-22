@@ -15,4 +15,7 @@ nav:
     - "Quarter Finals": "demo/demo-2022-quarter-finals.md"
     - "Semifinals": "demo/demo-2022-semifinals.md"
     - "Finals": "demo/demo-2022-finals.md"
+  - "SoccerSim World Championship 2022 Results":
+    - "Technical Challenge Results": "world/tech-challenges.md"
+    - "Team Description Papers": "world/tdps.md"
   - SoccerSim Code Submission: "code-submission.md"
