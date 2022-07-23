@@ -18,4 +18,5 @@ nav:
   - "SoccerSim World Championship 2022 Results":
     - "Technical Challenge Results": "world/tech-challenges.md"
     - "Team Description Papers": "world/tdps.md"
+    - "Games - Round 1": "world/round1.md"
   - SoccerSim Code Submission: "code-submission.md"
