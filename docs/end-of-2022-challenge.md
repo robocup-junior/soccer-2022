@@ -17,6 +17,7 @@ the robot (all 6 robots on the field should look the same) according
 to the following rules:
 
 **Requirements**
+
 * All the robots have either 4 or 3 wheels
 * All the robots are equipped with all the sensors (IR, GPS, Compass, Ultrasounds) and communication modules
 * All the robots are able to react to the ball and play a game (you need to create a simple program for them)
