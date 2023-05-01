@@ -4,6 +4,12 @@ The end of the year is coming and we decided to give you a chance to
 directly participate on the development on SoccerSim. If you are interested,
 read further for detailed instructions.
 
+## Results
+
+There was just Team Reset from Taiwan taking the place in this challenge.
+Not only they designed an omniwheeled robot, the team also created a dribbler and kicker devices.
+[Check out their Pull Request for more details!](https://github.com/RoboCupJuniorTC/rcj-soccersim/pull/140)
+
 ## Task
 
 If you have ever attended a RoboCupJunior Soccer event, you might have
