@@ -5,7 +5,7 @@ In total, there have been 5 rounds played, after which top 4 teams
 (namely Reset, APEX, moyashirobo, Sina) were selected
 to play finals and a game for 3rd place, respectively.
 
-The overall standings remained unchanged. [Check out the results](world/finals.md)
+The overall standings remained unchanged. [Check out the results](../world/finals.md)
 of the final games.
 
 
